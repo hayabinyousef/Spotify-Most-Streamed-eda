@@ -5,6 +5,7 @@ Exploring of spotify's most streamed songs dataset to idenfiy trends in music po
 - python
 - pandas
 - matplotlib
+- seaborn
 ## Dataset
 Kaggle - Spotify Most Streamed Songs
 ## Project Status
