@@ -1,2 +1,12 @@
 # Spotify-Most-Streamed-eda
-Exploratory data analysis of spotify's most streamed songs using python
+## Overview
+Exploring of spotify's most streamed songs dataset to idenfiy trends in music popularity using python
+## Tools
+- python
+- pandas
+- matplotlib
+- seaborn
+## Dataset
+Kaggle - Spotify Most Streamed Songs
+## Project Status
+in prograss
